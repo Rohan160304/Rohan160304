@@ -1,18 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Rohan waghmare</h1>
-
-
+<h1 align="center">Hi 👋, I'm Rohan Waghmare</h1>
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/neel.ae" target="_blank">
+  <a href="https://www.instagram.com/rohan.waghmare" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
-  <a href="https://www.linkedin.com/in/neel-gadekar-018248243" target="_blank">
+  <a href="https://www.linkedin.com/in/rohan-waghmare" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="https://discord.gg/YOURINVITECODE" target="_blank">
@@ -20,12 +19,15 @@
   </a>
 </p>
 
+---
+
 ## 🧑‍💻 About Me
+
 - 🎓 IT Diploma Graduate  
 - 📱 Android Developer (Java + XML)  
 - 🤖 AI / ML / GenAI Explorer  
 - 🌐 Learning Full Stack (MERN)  
-- 🇯🇵 JLPT Aspirant (Currently studing N3 ✨)  
+- 🇯🇵 JLPT Aspirant (Currently studying N3 ✨)  
 
 ---
 
@@ -35,14 +37,12 @@
 |---------|----------|----------------|
 | ![](https://skillicons.dev/icons?i=java,js,python&theme=dark) | ![](https://skillicons.dev/icons?i=androidstudio,react,html,css&theme=dark) | ![](https://skillicons.dev/icons?i=firebase,mongodb,git,github,nodejs&theme=dark) |
 
-
-
 ---
 
 ## 📊 Live Skill Activity Bar (Animated)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neelstar8&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanwaghmare&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -50,11 +50,10 @@
 ## ⚡ Live Coding Energy Bar
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neelstar8&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanwaghmare&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=neelstar8&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohanwaghmare&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -68,6 +67,7 @@
 ---
 
 ## 🚀 Projects
+
 - 🤖 **AI Resume Scanner** – ML Kit + Firebase  
 - 📊 **Trade Analyzer App** – Chart upload & AI insights  
 - 📱 **QR Attendance System** – Android + Firebase  
@@ -77,6 +77,7 @@
 ---
 
 ## 🌱 Currently Learning
+
 - Advanced Android  
 - Full Stack (MERN)  
 - GenAI APIs  
@@ -95,6 +96,7 @@
 ---
 
 ## ⚡ Fun Fact
+
 > I believe **skills compound faster than money** 📈
 
 ---
