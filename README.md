@@ -8,13 +8,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/rohan.waghmare" target="_blank">
+  <a href="https://www.instagram.com/rohanw_16" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
   <a href="https://www.linkedin.com/in/rohan-waghmare016" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="https://discord.gg/YOURINVITECODE" target="_blank">
+  <a href="https://discord.com/users/shinchan1603" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2"/>
   </a>
 </p>
@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 IT Diploma Graduate  
+- 🎓 Pursuing Master's in IT  
 - 📱 Android Developer (Java + XML)  
 - 🤖 AI / ML / GenAI Explorer  
 - 🌐 Learning Full Stack (MERN)  
@@ -39,7 +39,7 @@
 
 ---
 
-## 📊 Live Skill Activity Bar (Animated)
+## 📊 Live Skill Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanwaghmare&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
@@ -47,32 +47,12 @@
 
 ---
 
-## ⚡ Live Coding Energy Bar
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanwaghmare&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohanwaghmare&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake (LIVE Animation)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🚀 Projects
 
-- 🤖 **AI Resume Scanner** – ML Kit + Firebase  
-- 📊 **Trade Analyzer App** – Chart upload & AI insights  
-- 📱 **QR Attendance System** – Android + Firebase  
-- 🌊 **Suraksha Coast** – Safety-focused mobile app  
-- 🔐 **Code Guard** – AI plagiarism detection concept  
+- 📸 **Photography Website** – Responsive portfolio site  
+- 📧 **Email Spam Classifier** – ML-based spam detection system  
+- 💰 **CashWala** – Finance/expense tracking application  
+- 🤖 **Telegram Bot** – Automation bot with useful commands  
 
 ---
 
@@ -89,8 +69,8 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rohan-waghmare016"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://discord.com/users/shinchan1603"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
