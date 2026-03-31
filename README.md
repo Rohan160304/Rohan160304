@@ -17,6 +17,9 @@
   <a href="https://discord.com/users/shinchan1603" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2"/>
   </a>
+  <a href="mailto:rw3472495@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+  </a>
 </p>
 
 ---
@@ -53,25 +56,6 @@
 - 📧 **Email Spam Classifier** – ML-based spam detection system  
 - 💰 **CashWala** – Finance/expense tracking application  
 - 🤖 **Telegram Bot** – Automation bot with useful commands  
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Android  
-- Full Stack (MERN)  
-- GenAI APIs  
-- JLPT N4 → N3  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rohan-waghmare016"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://discord.com/users/shinchan1603"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
 
 ---
 
